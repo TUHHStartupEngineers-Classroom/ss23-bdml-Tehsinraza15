@@ -1,8 +1,13 @@
 ---
-title: "Data Visualization"
-author: "Joschka Schwarz"
+title: "06 Deep Learning"
+author: "Tehsinraza"
 ---
 
-::: callout-note
-You can delete everything in here and start fresh.
-:::
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
+```
+
+```{r}
+samples <- rnorm(100, mean=0, sd=1)
+hist(samples)
+```
