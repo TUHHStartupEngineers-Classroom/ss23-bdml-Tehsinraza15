@@ -1,0 +1,18 @@
+{
+  "hash": "c0f6609e5d6095429672235140d07ded",
+  "result": {
+    "markdown": "---\ntitle: \"06 Deep Learning\"\nauthor: \"Tehsinraza\"\n---\n\n\n\n::: {.cell hash='04_data_visualization_cache/html/unnamed-chunk-1_6ec3d7f86e845e6de0a02ba969c5313f'}\n\n```{.r .cell-code}\nsamples <- rnorm(100, mean=0, sd=1)\nhist(samples)\n```\n\n::: {.cell-output-display}\n![](04_data_visualization_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {
+      "include-in-header": [
+        "<link href=\"../../site_libs/pagedtable-1.1/css/pagedtable.css\" rel=\"stylesheet\" />\n<script src=\"../../site_libs/pagedtable-1.1/js/pagedtable.js\"></script>\n"
+      ]
+    },
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

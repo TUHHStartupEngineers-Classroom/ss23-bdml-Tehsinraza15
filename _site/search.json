@@ -16,9 +16,9 @@
   {
     "objectID": "content/01_journal/04_data_visualization.html",
     "href": "content/01_journal/04_data_visualization.html",
-    "title": "Data Visualization",
+    "title": "06 Deep Learning",
     "section": "",
-    "text": "Note\n\n\n\nYou can delete everything in here and start fresh."
+    "text": "samples &lt;- rnorm(100, mean=0, sd=1)\nhist(samples)"
   },
   {
     "objectID": "content/01_journal/01_tidyverse.html",
