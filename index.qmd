@@ -9,7 +9,7 @@ Matriculation number : "564647"
 
 
 
-## How to use
-Welcome to my webpage.
+## Welcome to my webpage
+
 Please find the solved challenges here
 Thank you
